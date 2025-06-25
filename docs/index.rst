@@ -10,7 +10,7 @@ How to Fix Hulu TV Login Issues Quickly?
    :width: 400px
    :align: center
    :target: https://getchatsupport.live/
-__________
+________
 
 Experiencing Hulu TV login issues can be incredibly frustrating, especially when you're ready to unwind with your favorite shows and movies. Whether you're encountering error messages, endless loading screens, or repeated failed login attempts, these issues can disrupt your streaming experience. Fortunately, most login problems can be fixed with a few simple steps.
 
@@ -65,7 +65,7 @@ Plug it back in and restart
 Try logging into Hulu again
 
 3. Check Internet Connectivity
-  _______
+_______
 Streaming services like Hulu depend on stable internet connections. Weak or intermittent connections often cause login problems. To check your internet:
 
 Test another app (like YouTube or Netflix) to see if it works
